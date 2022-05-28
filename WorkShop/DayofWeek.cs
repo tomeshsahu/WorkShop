@@ -24,7 +24,7 @@ namespace WorkShop
                     Console.WriteLine("Monday");
                     break;
                 case 2:
-                    Console.WriteLine("TuseDay");
+                    Console.WriteLine("TuesDay");
                     break;
                 case 3:
                     Console.WriteLine("WednesDay");
